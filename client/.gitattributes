@@ -1,1 +1,1 @@
-ignore linguist-generated=true
+ignore/**/* linguist-generated=true
